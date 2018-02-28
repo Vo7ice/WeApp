@@ -2,7 +2,8 @@
   "pages": [
     "pages/index/index",
     "pages/logs/logs",
-    "pages/button/button"
+    "pages/button/button",
+    "pages/one/one"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -23,6 +24,10 @@
       {
         "pagePath": "pages/logs/logs",
         "text": "日志"
+      },
+      {
+        "pagePath": "pages/one/one",
+        "text": "一个"
       }
     ]
   }
