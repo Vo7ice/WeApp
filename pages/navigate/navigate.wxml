@@ -1,0 +1,6 @@
+<!--pages/navigate/navigate.wxml-->
+<view class="container">
+  <navigator url='../swiper/swiper'>Swiper</navigator>
+  <button type="primary" size="default" bindtap="movable-view"> movable-view </button>
+  <button type="warn" size="default" bindtap="cover-view"> cover-view </button>
+</view>

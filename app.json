@@ -4,7 +4,8 @@
     "pages/logs/logs",
     "pages/button/button",
     "pages/one/one",
-    "pages/swiper/swiper"
+    "pages/swiper/swiper",
+    "pages/navigate/navigate"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -23,7 +24,7 @@
         "text": "首页"
       },
       {
-        "pagePath": "pages/swiper/swiper",
+        "pagePath": "pages/navigate/navigate",
         "text": "日志"
       },
       {
